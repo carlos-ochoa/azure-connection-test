@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "azure-performance-test",
+  "private_key_id": "98fd0d574ffe6efbd7fd85ba4d646dc4f5dc0eab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQD5p4KwLOUlfjXw\nIGxH8RpWhxR4fVOrlKH9ycVvRaVu4KZ8kh9m0TI/hk+QVCLTdYH2h/EmFQihuYZh\nF46CbTOsXPbH0wAa2b9T6mLLd+4nDlK9Emq+a6+tj/za3o3JzXwm8UiRvgeccEFS\naza97JLXRq36FZbB6Lgz+ZfctSKiUHd8cU9ll7mL28hVCjF3yI3GV8HMuvMmf2od\nbhsnCvzcZ38cQBMvdn5B8bpYdH4NcGR79epdPhzzA0gToGR3SWUPGfpOMEQZQkye\nJjc10tawePS2E3W0QBdx3asuaApZ1saysIkJ57vSVNjn6E8fn33BnQllLccM2wb+\nE/kJ1dX/AgMBAAECggEAOBNkmu7Sn4vMUL3vpG8m89WOhwvbfdg6VJd8JeS2ZoPG\nUYe+zujhSPyBpZEIa4fi472gMGYcFLtn0Coq4+fkaexNsA+YX++V9qLYgwxSrWod\nsoNO/6uPf8QuTvkbTv89Sj/7BWVyLzTVr04OszVOvFUPYfN0c+Syb1Y6QqRa/ar0\nwRIyxkeUP5v+eEO9MrZwOmvrUx8pw52h8Bx27cpJvSPSdZbYX3YkLe+8y9y5r1Kq\nxQ4u8gpI8DX+PD/Xo/ynjTLh8J0BpXUJj0qZeehwS+ZGleLgpynEJ2sDICHrWePG\ndLp+mVOZizMvloJ2/Ci2jiESHKJkSDQjhsdOgiTAlQKBgQD+uvZE2jxw/+8VHP68\nPjWTL2aWrmbyl2tDiSuadsXzX6AMmbQwJmRTTzRI93QX7BO7xBWG838FVyNIgomj\nunE9RxoDflBGxHkJEAtzn8MSlZxqUdk62EFsI5oaQBwiHQysPDWbYNp8AYn068Kp\nKmM7V609Z1y4JbPfAx7SFH0JwwKBgQD65hJO7M7YHMJKm/oTmCI+nab+JTcOrOEm\nyJlMjjKPFYm+SqFHMSFWteijKrLck9+pZIPThLcnWzM7L8TjVK1zqw3dljv/09A+\n94hxTUhuHFRqQCsgGmBvKllmQGN7Bu/aQ9JoGlBjbTNcOsmZbQB1LhfTeX/T4JAx\nLDg/z4JDFQKBgF+1f7J/DRaoEvyr2EqCVT7oIHOdM7ESk4rcjzWKSvYWh9w0JC+z\nPR7QM6T21PfoC8IQ+sWp15/6DZfA9FZARyvu+yc03pS4XYG6NZNMA8+Hxy1rc2NY\nvbwT5GLYk7l9kLVmKf4ndfAB5APSUWGeO4qgdscLfxrxj5PLaFkmuZRhAoGAA20m\n7NsBDCSAZsJwjNn0BcTjZe8eLF4iCQSOS2RZvmh95BJi13UNToDXd3r6zFZcpJSR\n1E6oranqLjG9z5j1cXHxk4gcs6ax3lpFC78RcSeD45uSuzKBBKOgauwQL7rthZ6N\nfgx18pWoMOdAn47EhdUmUCYFn+AeN/2xmvV7gu0CgYBu+jCsOFTQzOWB5hVfwpOO\nhwYVckQv/LKNXOZjfDNcuC9WWatIRTeUHVANDQWnqUeyQNl/4lnkOy8gVzekVJm9\nuLvJM9exxCrrnqcE/MthhdL1I18Ik4g9nJcW9UFT2zHLLsGdX36iLZOoJ2kacjwI\np48h3NEjw/WA/lLzNHg8/A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "azuretest@azure-performance-test.iam.gserviceaccount.com",
+  "client_id": "118339199144683739663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/azuretest%40azure-performance-test.iam.gserviceaccount.com"
+}
